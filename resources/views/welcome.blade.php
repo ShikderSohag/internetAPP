@@ -23,12 +23,19 @@
             class="text-blue-500 hover:underline">{{ env('APP_AUTHOR') }}</a></p>
 
     @auth
-        <a href="{{ route('dashboard') }}"><button class="bg-blue-500 text-white px-4 py-2 rounded">Dashboard</button></a>
+        <button class="bg-blue-500 text-white px-4 py-2 rounded mt-4 uppercase"><a
+                href="{{ route('dashboard') }}">Dashboard</a></button>
+        <form action="{{ route('logout') }}" method="POST" class="mt-4">
+            @csrf
+            <button type="submit"
+                class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 uppercase">Logout</button>
+        </form>
     @else
         <div class="mt-4">
-            <a href="{{ route('login') }}" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Login</a>
+            <a href="{{ route('login') }}"
+                class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 uppercase mt-4">Login</a>
             <a href="{{ route('register') }}"
-                class="ml-2 bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Register</a>
+                class="ml-2 bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 uppercase mt-4">Register</a>
         </div>
     @endauth
 </body>
