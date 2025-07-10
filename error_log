@@ -1,0 +1,35 @@
+[10-Jul-2025 10:47:18 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:47:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:48:32 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:48:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:49:58 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:50:57 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:50:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:50:57 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:50:57 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:50:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:50:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:52:30 UTC] PHP Warning:  require(/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10
+[10-Jul-2025 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aqdfxhnuxo/shikderlink.shop/vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aqdfxhnuxo/shikderlink.shop/artisan:10
+Stack trace:
+#0 {main}
+  thrown in /home/aqdfxhnuxo/shikderlink.shop/artisan on line 10

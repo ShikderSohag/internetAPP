@@ -21,6 +21,16 @@
     <h2 class="text-2xl font-bold text-center">{{ env('APP_DESCRIPTION') }}</h2>
     <p class="text-center">{{ env('APP_SLOGAN') }} by <a href="{{ env('AUTHOR_URI') }}"
             class="text-blue-500 hover:underline">{{ env('APP_AUTHOR') }}</a></p>
+
+    @auth
+        <a href="{{ route('dashboard') }}"><button class="bg-blue-500 text-white px-4 py-2 rounded">Dashboard</button></a>
+    @else
+        <div class="mt-4">
+            <a href="{{ route('login') }}" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Login</a>
+            <a href="{{ route('register') }}"
+                class="ml-2 bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Register</a>
+        </div>
+    @endauth
 </body>
 
 </html>
